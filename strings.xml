@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ekoyamuo</string>
+    <string name="username">email</string>
+    <string name="password">password</string>
+    <string name="logo1">logo1</string>
+    <string name="logo2">logo2</string>
+    <string name="sign_in">Log in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot Password?</string>
+</resources>
